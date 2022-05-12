@@ -29,16 +29,18 @@
 
 ### Block Diagram
 
-### Voltage Levels
-| Voltage | Description              |
-|---------|:------------------------:|
-| 230 VAC | wall                     |
-| ???     | transformer secondary    |
-| ???     | class D amplfier voltage |
-| 5 V     | codec supply             |
-| 3.3 V   | uC voltage               |
-| 3.3 V   | codec supply             |
-
+### Supply
 - make sure to use ferrite beads + caps to decouple individual codec supplies
 
+#### Voltage Levels
+| Voltage  | Description              |
+|----------|:------------------------:|
+| 230 VAC  | wall                     |
+| 20.7 VAC | transformer secondary    |
+| ???      | class D amplfier voltage |
+| 5 V      | codec supply             |
+| 3.3 V    | codec supply             |
+| 3.3 V    | uC voltage               |
+
+#### Input Current
 
