@@ -20,6 +20,7 @@
 - [ ] Bluetooth input
 - [ ] keep input / user interface in direction of uC extendable
 - [ ] configuration jumpers on back of case
+- [ ] DC input jack
 
 ### Case
 - either a new wooden case or original Tensai case (bad for BT signal)
@@ -34,7 +35,7 @@
 
 #### Voltage Levels
 | Voltage  | Description              |
-|----------|:------------------------:|
+|----------|--------------------------|
 | 230 VAC  | wall                     |
 | 20.7 VAC | transformer secondary    |
 | ???      | class D amplfier voltage |
