@@ -38,7 +38,7 @@
 |----------|--------------------------|
 | 230 VAC  | wall                     |
 | 20.7 VAC | transformer secondary    |
-| ???      | class D amplfier voltage |
+| 17 V      | class D amplfier voltage |
 | 5 V      | codec supply             |
 | 3.3 V    | codec supply             |
 | 3.3 V    | uC voltage               |
