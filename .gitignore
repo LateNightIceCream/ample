@@ -32,3 +32,5 @@ fp-info-cache
 
 # libreoffice temp files
 *.ods#
+*.odg#
+
