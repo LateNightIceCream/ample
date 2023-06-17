@@ -1,0 +1,70 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# RC4580QDRQ1-eec3
+#
+DEF RC4580QDRQ1-eec3 U 0 40 Y Y 2 L N
+F0 "U" 0 300 50 H V L CNN
+F1 "RC4580QDRQ1-eec3" 0 400 50 H V L CNN
+F2 "Texas_Instruments-RC4580QDRQ1-*" 0 500 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/rc4580-q1.pdf" 0 600 50 H I L CNN
+F4 "80" 0 700 50 H I L CNN "CMRR Mind B"
+F5 "MS-012" 0 800 50 H I L CNN "Code  JEDEC"
+F6 "Manufacturer URL" 0 900 50 H I L CNN "Component Link 1 Description"
+F7 "http://www.ti.com/" 0 1000 50 H I L CNN "Component Link 1 URL"
+F8 "Package Specification" 0 1100 50 H I L CNN "Component Link 3 Description"
+F9 "http://www.ti.com/litv/pdf/msoi002j" 0 1200 50 H I L CNN "Component Link 3 URL"
+F10 "SLOS707A" 0 1300 50 H I L CNN "Datasheet Version"
+F11 "12" 0 1400 50 H I L CNN "GBW Typ MHz"
+F12 "500000" 0 1500 50 H I L CNN "IIB Maxp A"
+F13 "4.5" 0 1600 50 H I L CNN "Iq per channelMaxmA"
+F14 "Surface Mount" 0 1700 50 H I L CNN "Mounting Technology"
+F15 "2" 0 1800 50 H I L CNN "Number of Channels"
+F16 "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm" 0 2000 50 H I L CNN "Package Description"
+F17 "4040047-3/M, 06/2011" 0 2100 50 H I L CNN "Package Version"
+F18 "5" 0 2300 50 H I L CNN "Slew RateTypVus"
+F19 "General Purpose Amplifier, High Supply Voltage Amplifier (>=30V), Low Noise Amp (<=10nV/rtHz)" 0 2400 50 H I L CNN "Sub Family"
+F20 "32" 0 2500 50 H I L CNN "Total Supply VoltageMax5V is 5  5V is 10"
+F21 "4" 0 2600 50 H I L CNN "Total Supply VoltageMin5V is 5  5V is 10"
+F22 "3" 0 2700 50 H I L CNN "Vio 25CMaxmV"
+F23 "6.2" 0 2800 50 H I L CNN "Vn at 1kHzTypnVrtHz"
+F24 "IC" 0 2900 50 H I L CNN "category"
+F25 "1323911" 0 3000 50 H I L CNN "ciiva ids"
+F26 "6a60411cad66748d" 0 3100 50 H I L CNN "library id"
+F27 "Texas Instruments" 0 3200 50 H I L CNN "manufacturer"
+F28 "D0008A" 0 3300 50 H I L CNN "package"
+F29 "1464163501" 0 3400 50 H I L CNN "release date"
+F30 "Yes" 0 3500 50 H I L CNN "rohs"
+F31 "F7ED1523-813A-4131-B989-273A7A6145B4" 0 3600 50 H I L CNN "vault revision"
+F32 "yes" 0 3700 50 H I L CNN "imported"
+DRAW
+P 2 1 1 0 200 -300 600 -100 N
+P 2 1 1 0 200 100 200 -300 N
+P 2 1 1 0 200 100 600 -100 N
+P 2 1 1 0 240 -200 300 -200 N
+P 2 1 1 0 240 0 300 0 N
+P 2 1 1 0 270 -170 270 -230 N
+P 2 1 1 0 400 -200 400 -300 N
+P 2 1 1 0 400 100 400 0 N
+P 2 2 1 0 200 -300 600 -100 N
+P 2 2 1 0 200 100 200 -300 N
+P 2 2 1 0 200 100 600 -100 N
+P 2 2 1 0 240 -200 300 -200 N
+P 2 2 1 0 240 0 300 0 N
+P 2 2 1 0 270 -170 270 -230 N
+P 2 2 1 0 400 -200 400 -300 N
+P 2 2 1 0 400 100 400 0 N
+X OUT1 1 700 -100 100 L 40 0 1 1 O
+X IN1- 2 100 0 100 R 40 0 1 1 I
+X IN1+ 3 100 -200 100 R 40 0 1 1 I
+X VCC- 4 400 -400 100 U 40 0 1 1 W
+X VCC+ 8 400 200 100 D 40 0 1 1 W
+X VCC- 4 400 -400 100 U 40 0 2 1 W
+X IN2+ 5 100 -200 100 R 40 0 2 1 I
+X IN2- 6 100 0 100 R 40 0 2 1 I
+X OUT2 7 700 -100 100 L 40 0 2 1 O
+X VCC+ 8 400 200 100 D 40 0 2 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

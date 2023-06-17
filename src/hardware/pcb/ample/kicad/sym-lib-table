@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eec")(type "Legacy")(uri "/home/zamza/Projects/ample/src/kicad/libraries/IC_STMicroelectronics_LDL212DR/eec.lib")(options "")(descr ""))
+  (lib (name "eec1")(type "Legacy")(uri "/home/zamza/Projects/ample/src/kicad/libraries/UNK_Espressif Systems_ESP32-WROVER/eec.lib")(options "")(descr ""))
+  (lib (name "cs42526")(type "Legacy")(uri "${KIPRJMOD}/cs42526.lib")(options "")(descr ""))
+  (lib (name "cs42528")(type "Legacy")(uri "${KIPRJMOD}/cs42528.lib")(options "")(descr ""))
+  (lib (name "eec2")(type "Legacy")(uri "/home/zamza/Projects/ample/src/kicad/libraries/IC_Toshiba_TORX1350A(F)/eec.lib")(options "")(descr ""))
+  (lib (name "rc4580Q")(type "Legacy")(uri "${KIPRJMOD}/rc4580Q.lib")(options "")(descr ""))
+  (lib (name "eec3")(type "Legacy")(uri "/home/zamza/Projects/ample/src/kicad/libraries/IC_Texas Instruments_RC4580QDRQ1/eec.lib")(options "")(descr ""))
+  (lib (name "power_custom")(type "Legacy")(uri "/home/zamza/Projects/ample/src/kicad/ample/power_custom.lib")(options "")(descr ""))
+  (lib (name "ample-rescue")(type "KiCad")(uri "${KIPRJMOD}/ample-rescue.kicad_sym")(options "")(descr ""))
+)
