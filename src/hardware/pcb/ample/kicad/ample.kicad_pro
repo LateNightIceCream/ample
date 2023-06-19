@@ -348,7 +348,11 @@
     ],
     [
       "aa59865f-5d74-4eed-a8ab-9d341c432fb9",
-      "Output"
+      "DAC_Filter"
+    ],
+    [
+      "7ab66be0-b142-44d2-a7bd-915debbc7516",
+      "Control"
     ]
   ],
   "text_variables": {}
