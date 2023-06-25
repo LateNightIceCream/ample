@@ -267,7 +267,7 @@
         )
       )
       (symbol "TORX1350A(F)_1_1"
-        (pin power_in line (at 7.62 0 180) (length 2.54)
+        (pin output line (at 7.62 0 180) (length 2.54)
           (name "OUT" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
@@ -530,6 +530,10 @@
     (uuid d3cfb1e8-6ee9-4cc3-9812-ee92853fa925)
   )
 
+  (label "OPT_VCC" (at 100.33 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 110b3aa6-df7f-4f13-b85a-e96c87bbcf82)
+  )
   (label "SPDIF_DATA_1" (at 118.11 95.25 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 499a3e95-b2af-44b4-9ab4-aa24bb8737f1)
