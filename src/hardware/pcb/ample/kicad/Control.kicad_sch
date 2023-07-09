@@ -360,7 +360,7 @@
   (symbol (lib_id "power:GND") (at 147.32 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07434b51-a635-4d3b-8e2c-375e645219ca)
-    (property "Reference" "#PWR0155" (at 147.32 140.97 0)
+    (property "Reference" "#PWR0158" (at 147.32 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 147.32 139.7 0)
@@ -376,7 +376,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "#PWR0155") (unit 1)
+          (reference "#PWR0158") (unit 1)
         )
       )
     )
@@ -412,7 +412,7 @@
   (symbol (lib_id "power:+3V3") (at 172.72 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2bcb3076-eca3-42aa-8382-e243fb0e7930)
-    (property "Reference" "#PWR0151" (at 172.72 68.58 0)
+    (property "Reference" "#PWR0161" (at 172.72 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 172.72 59.69 0)
@@ -428,7 +428,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "#PWR0151") (unit 1)
+          (reference "#PWR0161") (unit 1)
         )
       )
     )
@@ -437,7 +437,7 @@
   (symbol (lib_id "power:+3V3") (at 162.56 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7de29994-c03b-426e-ad4f-7af35ad4bc24)
-    (property "Reference" "#PWR0152" (at 162.56 73.66 0)
+    (property "Reference" "#PWR0159" (at 162.56 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 162.56 64.77 0)
@@ -453,7 +453,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "#PWR0152") (unit 1)
+          (reference "#PWR0159") (unit 1)
         )
       )
     )
@@ -462,7 +462,7 @@
   (symbol (lib_id "power:+3V3") (at 147.32 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7eba8ec0-cf72-48f5-98f5-d9f85fff0f90)
-    (property "Reference" "#PWR0154" (at 147.32 111.76 0)
+    (property "Reference" "#PWR0157" (at 147.32 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 147.32 102.87 0)
@@ -478,7 +478,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "#PWR0154") (unit 1)
+          (reference "#PWR0157") (unit 1)
         )
       )
     )
@@ -487,7 +487,7 @@
   (symbol (lib_id "Device:R_Small") (at 172.72 69.85 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a13cc7af-686e-4146-9bf2-7d4a7dcde952)
-    (property "Reference" "R76" (at 170.18 68.58 0)
+    (property "Reference" "R66" (at 170.18 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 170.18 71.12 0)
@@ -504,7 +504,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "R76") (unit 1)
+          (reference "R66") (unit 1)
         )
       )
     )
@@ -513,7 +513,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 147.32 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d0c4d9b7-ce6b-4c8c-97e6-ff26f8645295)
-    (property "Reference" "J3" (at 148.59 66.04 0)
+    (property "Reference" "J9" (at 148.59 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x03_Odd_Even" (at 148.59 68.58 0)
@@ -534,7 +534,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "J3") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
     )
@@ -543,7 +543,7 @@
   (symbol (lib_id "power:GND") (at 170.18 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e490735d-94aa-4346-abdc-447c5790804c)
-    (property "Reference" "#PWR0153" (at 170.18 86.36 0)
+    (property "Reference" "#PWR0160" (at 170.18 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 170.18 85.09 0)
@@ -559,7 +559,7 @@
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/7ab66be0-b142-44d2-a7bd-915debbc7516"
-          (reference "#PWR0153") (unit 1)
+          (reference "#PWR0160") (unit 1)
         )
       )
     )
