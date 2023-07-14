@@ -1,5 +1,5 @@
 # ample
-custom audio amplifier with s/pdif input
+Custom headphone amplifier with s/pdif input.
 
 ## Features
 | category | features                                                                       |
@@ -12,5 +12,4 @@ custom audio amplifier with s/pdif input
 Hardware source files can be found in the src/hardware directory. There are KiCAD design files as well as Gerber and PDF outputs of the current revision.
 
 ### KiCad libraries used
-1. [SparkFun KiCad Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries)
-    - published under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) and used without changes
+1. [LNIC KiCAD Libraries](https://github.com/LateNightIceCream/LNIC-kicad-libraries)
