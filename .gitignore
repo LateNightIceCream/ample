@@ -35,3 +35,5 @@ fp-info-cache
 *.ods#
 *.odg#
 
+# custom folder
+manufacture/
