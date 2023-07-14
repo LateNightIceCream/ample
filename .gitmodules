@@ -1,6 +1,3 @@
 [submodule "src/hardware/pcb/ample/kicad/libraries/LNIC-kicad-libraries"]
 	path = src/hardware/pcb/ample/kicad/libraries/LNIC-kicad-libraries
 	url = https://github.com/LateNightIceCream/LNIC-kicad-libraries.git
-[submodule "src/hardware/pcb/ample/kicad/libraries/SparkFun-KiCad-Libraries"]
-	path = src/hardware/pcb/ample/kicad/libraries/SparkFun-KiCad-Libraries
-	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
