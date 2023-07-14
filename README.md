@@ -1,5 +1,5 @@
 # ample
-Custom headphone amplifier with s/pdif input.
+Custom headphone amplifier with optical s/pdif input.
 
 ## Features
 | category | features                                                                       |
