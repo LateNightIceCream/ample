@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "ample/Control")
+    (date "2023-07-14")
+    (rev "00.01")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_02x03_Odd_Even" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 1.27 5.08 0)

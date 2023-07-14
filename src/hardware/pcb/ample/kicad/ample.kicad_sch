@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Ample/Hierarchy")
+    (date "2023-07-14")
+    (rev "00.01")
+  )
+
   (lib_symbols
     (symbol "Device:R_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 0.762 0.508 0)

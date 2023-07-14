@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "ample/Input")
+    (date "2023-07-14")
+    (rev "00.01")
+  )
+
   (lib_symbols
     (symbol "74xGxx:74AHCT1G126" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -2.54 3.81 0)

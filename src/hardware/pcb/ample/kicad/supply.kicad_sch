@@ -5,6 +5,8 @@
   (paper "A3")
 
   (title_block
+    (title "ample/Power Supply")
+    (date "2023-07-14")
     (rev "00.01")
   )
 
