@@ -1032,7 +1032,7 @@
     (property "Sheetname" "Control" (at 222.25 107.2384 0)
       (effects (font (size 1.27 1.27) bold italic) (justify left bottom))
     )
-    (property "Sheetfile" "Control.kicad_sch" (at 222.25 146.6346 0)
+    (property "Sheetfile" "control.kicad_sch" (at 222.25 146.6346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "POT_VOLTAGE" output (at 222.25 129.54 180)
