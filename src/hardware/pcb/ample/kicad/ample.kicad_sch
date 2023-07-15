@@ -6,8 +6,8 @@
 
   (title_block
     (title "ample/Hierarchy")
-    (date "2023-07-14")
-    (rev "00.01")
+    (date "2023-07-15")
+    (rev "00.02")
   )
 
   (lib_symbols
