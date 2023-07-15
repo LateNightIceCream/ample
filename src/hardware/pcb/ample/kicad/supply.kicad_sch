@@ -4110,8 +4110,8 @@
     (property "Datasheet" "~" (at 153.67 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15087781-521e-4bd3-a308-aa888935e9d9))
-    (pin "2" (uuid 8725c717-619e-4300-a577-cb8a7d01a70b))
+    (pin "1" (uuid 88946ff0-1c22-4ee1-8a6e-295a0d53ff3c))
+    (pin "2" (uuid 268b2019-2697-434e-8e00-c9f88df30423))
     (instances
       (project "ample"
         (path "/bb5c9149-9eb8-4a9c-8d50-f58c12224ad5/00000000-0000-0000-0000-0000628f83a4"

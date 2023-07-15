@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2b85bd1f-edfa-4243-8196-45dcb3b44c50)
+
+  (paper "A4")
+
+  (title_block
+    (title "ample Front Panel")
+    (date "2023-07-15")
+    (rev "00.01")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

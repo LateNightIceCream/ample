@@ -892,7 +892,7 @@
     (property "Reference" "C?" (at 137.16 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1u" (at 137.16 80.2386 0)
+    (property "Value" "1u" (at 138.43 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 129.54 81.28 0)
