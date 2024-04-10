@@ -1,3 +1,5 @@
+![image](docs/img/ample_rev00_01.jpg)
+
 # ample
 Custom headphone amplifier with optical s/pdif input.
 
